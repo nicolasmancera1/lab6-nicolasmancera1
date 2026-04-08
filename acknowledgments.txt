@@ -4,13 +4,14 @@ Lab 6
 * Número aproximado de horas para completar esta tarea
 ******************************************************************************/
 Número de horas:
-
+8
 
 /****************************************************************************
 * ¿Encontraste algún problema serio? Si es así, por favor descríbelo.
 ******************************************************************************/
 
 ¿Sí o no?
+Los comandos de los diccionarios se me complicó pero del resto estaba bien.
 
 
 /****************************************************************************
@@ -23,7 +24,7 @@ Número de horas:
  *  Proporciona el enlace de tu perfil de GitHub (ej. https://github.com/afbeltranp)
  ******************************************************************************/
 
-[escribe el enlace aquí]
+https://github.com/nicolasmancera1
 
 /****************************************************************************
  *  Escribe y firma el siguiente reconocimiento estudiantil de trabajo original.
@@ -35,3 +36,6 @@ Número de horas:
  ******************************************************************************/
 
 [escribe y firma la declaración aquí]
+
+Esta tarea de programación representa mi propio trabajo de acuerdo
+ *      con las regulaciones de la Universidad.  /s/ Nicolas Mancera
